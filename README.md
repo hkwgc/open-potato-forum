@@ -15,5 +15,7 @@ Open PoTAToに関する情報の検索や質問にご利用ください。
 GitHubのIssue機能を使います。
 [Open PoTAToフォーラムのissues](https://github.com/hkwgc/open-potato-forum/issues)にアクセスしてページ右上の緑色の **New Issue** をクリックしてください。タイトルに質問の内容を分かりやすく、記載してください。
 
+### FAQ
 
+in prep
 
