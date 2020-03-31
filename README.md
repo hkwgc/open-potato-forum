@@ -1,5 +1,5 @@
-# open-potato-forum
-Open PoTAToのユーザーフォーラムです。
+# Open PoTATo ユーザーフォーラム
+
 Open PoTAToに関する情報の検索や質問にご利用ください。
 
 ### 質問をする前に
