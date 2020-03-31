@@ -11,10 +11,9 @@ Open PoTAToに関する情報の検索や質問にご利用ください。
 
   [技術系Q&Aサイトのすゝめ#これから質問される方へ](https://qiita.com/yohhoy/items/9fc18aa2e349907ccb16#%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E8%B3%AA%E5%95%8F%E3%81%95%E3%82%8C%E3%82%8B%E6%96%B9%E3%81%B8)
 
-### 使い方
+### 質問のしかた
 GitHubのIssue機能を使います。
-
-[参考サイト](https://haayaaa.hatenablog.com/entry/2018/12/20/202655)
+[Open PoTAToフォーラムのissues](https://github.com/hkwgc/open-potato-forum/issues)にアクセスしてページ右上の緑色の **New Issue** をクリックしてください。タイトルに質問の内容を分かりやすく、記載してください。
 
 
 
